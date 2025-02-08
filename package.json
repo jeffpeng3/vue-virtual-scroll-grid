@@ -1,5 +1,6 @@
 {
   "name": "vue-virtual-scroll-grid",
+  "type": "module",
   "author": "Roc Wong <roc@kiwiberry.nz> (https://kiwiberry.nz/)",
   "repository": {
     "type": "git",
